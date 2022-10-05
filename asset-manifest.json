@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wazuh-task3/static/css/main.bb25d4aa.css",
+    "main.js": "/wazuh-task3/static/js/main.87f09e6f.js",
+    "index.html": "/wazuh-task3/index.html",
+    "main.bb25d4aa.css.map": "/wazuh-task3/static/css/main.bb25d4aa.css.map",
+    "main.87f09e6f.js.map": "/wazuh-task3/static/js/main.87f09e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb25d4aa.css",
+    "static/js/main.87f09e6f.js"
+  ]
+}
